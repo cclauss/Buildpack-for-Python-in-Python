@@ -1,3 +1,7 @@
+#!/usr/bin/env python
+
+# Usage:  $ bin/release <build-dir>
+
 import os.path, sys
 
 build_dir = sys.argv[1]
